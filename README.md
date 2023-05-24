@@ -1,4 +1,4 @@
 # Bike-Sharing-Assignment
 
-Problem Statement:/n
-A bike sharing 
+Problem Statement:
+A bike sharing system is a service in which bikes are made 
